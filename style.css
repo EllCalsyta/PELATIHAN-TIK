@@ -6,15 +6,15 @@ body {
 
 .kartu-profil {
       width: 300px;
-      margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+      margin: 50px auto;
       padding: 20px;
       background-color: white;
-      border-radius: 15px; /* Mmebuat sudut menjadi melengkung */
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
-      text-align: center; /* Menengahkan semua teks di dalam kartu */
+      border-radius: 15px; 
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+      text-align: center;
 }
 
 .kartu-profil img {
       width: 150px;
-      border-radius: 50%; /* Trik utuk membuat gambar persegi menjadi lingkaran sempurna */
+      border-radius: 50%;
 }
